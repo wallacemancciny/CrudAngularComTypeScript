@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Carro Fiat Uno",
+      "price": 500000
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Bicicleta",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "name": "Sofa",
+      "price": 2500
+    }
+  ],
+  "Departaments": [
+    {
+      "id": 1,
+      "name": "Financeiro"
+      
+    },
+    {
+      "id": 2,
+      "name": "Tecnologia"
+      
+    },
+    {
+      "id": 3,
+      "name": "Infra Estrutura"
+      
+    }
+  ]
+}
